@@ -1,6 +1,6 @@
 <!-- 画像を表示 -->
 <p align="center">
-  <img src="IT.jpg" alt="プロフィール画像" width="200" style="border-radius: 50%;">
+  <img src="Pictures/IT.jpg" alt="プロフィール画像" width="200" style="border-radius: 50;">
 </p>
 
 <h1 align="center">呉屋 星凪（ごや せな）</h1>
@@ -27,4 +27,5 @@
 - Webアプリ開発
 - AI・機械学習
 - 自動化・スクリ
+
 
