@@ -26,7 +26,7 @@
 - AI・機械学習
 - 自動化・スクリ
 
-##　持ってる資格:
+💡　持ってる資格:
 - CompTIA IT Fundamentals(ITF+)
 - インターネット検定 ドットコムマスター ベーシック
 - サーティファイ 実践プログラミング技術者試験 Python部門 Entry (Level 1)
@@ -41,6 +41,7 @@
 **リポジトリ**  
   [リポジトリはこちら](https://github.com/itc-s24012/mihoyo2)
   [vercel](https://vercel.com/itc-s24012s-projects/mihoyo2)
+
 
 
 
