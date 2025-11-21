@@ -26,13 +26,23 @@
 - AI・機械学習
 - 自動化・スクリ
 
+##　持ってる資格
+CompTIA IT Fundamentals(ITF+)
+インターネット検定 ドットコムマスター ベーシック
+サーティファイ 実践プログラミング技術者試験 Python部門 Entry (Level 1)
+サーティファイ コミュニケーション検定 初級
+
 ## プロジェクト紹介
 ### ゲーム紹介
 概要
-自身のゲームIDを検索してキャラの詳細がみれる
+崩壊スターレイル
+自身のゲームIDを検索して所持キャラの詳細がみれる
 
 **リポジトリ**  
   [リポジトリはこちら](https://github.com/itc-s24012/mihoyo2)
+  [vercel](https://vercel.com/itc-s24012s-projects/mihoyo2)
+
+
 
 
 
