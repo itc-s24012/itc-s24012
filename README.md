@@ -42,9 +42,13 @@
   [リポジトリはこちら](https://github.com/itc-s24012/mihoyo2)
   [vercel](https://mihoyo2.vercel.app/)
 
+概要
+鳴潮
+鳴潮の星５キャラの詳細情報が見れる
   [リポジトリはこちら](https://github.com/itc-s24012/webfrontkadai)
   [vercel](https://webfrontkadai.vercel.app/)
  
+
 
 
 
