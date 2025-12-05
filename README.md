@@ -44,11 +44,13 @@
 
 ### 概要
 鳴潮
-鳴潮の星５キャラの詳細情報が見れる
+ゲームの星５キャラの詳細情報が見れる
+
 **リポジトリ** 
   [リポジトリはこちら](https://github.com/itc-s24012/webfrontkadai)
   [vercel](https://webfrontkadai.vercel.app/)
  
+
 
 
 
