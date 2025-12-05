@@ -35,21 +35,20 @@
 ## プロジェクト紹介
 ### ゲーム紹介
 ### 概要
-崩壊スターレイル
+(1)崩壊スターレイル
 自身のゲームIDを検索して所持キャラの詳細がみれる
+
+(2)鳴潮
+ゲームの星５キャラの詳細情報が見れる
 
 **リポジトリ**  
   [リポジトリはこちら](https://github.com/itc-s24012/mihoyo2)
   [vercel](https://mihoyo2.vercel.app/)
 
-### 概要
-鳴潮
-ゲームの星５キャラの詳細情報が見れる
-
-**リポジトリ** 
   [リポジトリはこちら](https://github.com/itc-s24012/webfrontkadai)
   [vercel](https://webfrontkadai.vercel.app/)
  
+
 
 
 
